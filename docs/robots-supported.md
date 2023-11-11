@@ -2,6 +2,7 @@
 
 MicroCode supports the following [robots](./robot.md):
 
+-   [4tronix MiniBit](#4tronix-minibit)
 -   [DFRobot Maqueen](#dfrobot-maq)
 -   [DFRobot Maqueen Plus](#dfrobot-maq-plus)
 -   [Elecfreaks Cutebot](#cutebot)
@@ -15,6 +16,14 @@ MicroCode supports the following [robots](./robot.md):
 
 Please file a [GitHub issue](https://github.com/microsoft/microcode/issues?q=is%3Aissue+is%3Aopen+label%3Arobot) if your robot is not listed.
 See [how to contribute](#contributing) for more information.
+
+### 4tronix MiniBit {#4tronix-minibit}
+
+![Photograph of the MiniBit](./images/minibit.jpg){:class="photo"}
+
+-   [Home](https://shop.4tronix.co.uk/products/minibit)
+-   [Download for micro:bit V1](https://microsoft.github.io/microbit-robot/assets   )
+-   [Download for micro:bit V2](https://microsoft.github.io/microbit-robot/assets   )
 
 ### DFRobot Maqueen V2+ {#dfrobot-maq}
 
